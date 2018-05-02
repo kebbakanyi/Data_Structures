@@ -80,7 +80,6 @@ my_list.append(9)
 my_list.display()
 print(my_list.get(1))
 my_list.erase(1)
-
 my_list.display()
 
 
